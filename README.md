@@ -100,7 +100,7 @@ MoneyMonk/
 <img width="1862" height="960" alt="Image" src="https://github.com/user-attachments/assets/a617998d-d350-4d9b-9c4b-a9ce38d30b72" />
 
 ### Expense Tracking
-![Expenses](https://via.placeholder.com/600x400/FF6B6B/FFFFFF?text=💸+Expense+Tracker)
+<img width="1898" height="976" alt="Image" src="https://github.com/user-attachments/assets/c9930777-7572-4a93-91a0-24ff93dbc4fa" />
 
 ### Income Management
 ![Income](https://via.placeholder.com/600x400/45B7D1/FFFFFF?text=💰+Income+Manager)
