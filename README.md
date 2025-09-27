@@ -97,7 +97,8 @@ MoneyMonk/
 ## 🎨 Screenshots (Because Pics or It Didn't Happen)
 
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/600x400/4ECDC4/FFFFFF?text=🏠+Dashboard+View)
+![Dashboard](<img width="1862" height="960" alt="image" src="https://github.com/user-attachments/assets/07015e8e-651b-4aa5-8371-e3bec860afb4" />
+)
 
 ### Expense Tracking
 ![Expenses](https://via.placeholder.com/600x400/FF6B6B/FFFFFF?text=💸+Expense+Tracker)
