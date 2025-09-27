@@ -103,13 +103,13 @@ MoneyMonk/
 <img width="1898" height="976" alt="Image" src="https://github.com/user-attachments/assets/c9930777-7572-4a93-91a0-24ff93dbc4fa" />
 
 ### Income Management
-![Income](https://via.placeholder.com/600x400/45B7D1/FFFFFF?text=💰+Income+Manager)
+<img width="1830" height="948" alt="Image" src="https://github.com/user-attachments/assets/b7c1ebfe-722a-4e51-9d70-5b2efc453ca0" />
 
 ---
 
 ## 🤝 Contributing (Join the Squad!)
 
-Wanna make MoneyMonk even more better? 🔥
+Wanna make MoneyMonk even more better? 
 
 1. **Fork it** (Hit that fork button like you mean it!)
 2. **Create a branch** (`git checkout -b feature/AmazingFeature`)
@@ -143,12 +143,6 @@ If MoneyMonk helped you get your financial life together, don't forget to:
 - 🔄 Share with friends (spread the wealth knowledge!)
 - 📝 Leave a review 
 
-<div align="center">
 
 ### 🎉 Made with ❤️ by [Khushi](https://github.com/Kumarikhushi712)
 
-</div>
-
----
-
-*P.S. - If you read this entire README, you deserve a cookie 🍪 (and probably have great attention to detail for contributing!)*
