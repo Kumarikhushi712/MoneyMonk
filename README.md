@@ -1,9 +1,9 @@
-# MoneyMonk - Your Personal Finance Bestie!
+# MoneyMonk - Easiest way to know where your money goes!!
 
 ## 🚀 What's This About? 
 
 Yo! Tired of being broke? 😭 Can't track where your money goes? 
-MoneyMonk is here to save your financial life! It's like having a smart monkey 🐒 managing your expenses and income - but way cooler and less messy! 
+MoneyMonk is here to save your financial life! It's like managing your expenses and income just by looking at graph - but way cooler and less messy! 
 
 ### ✨ Why MoneyMonk is Different:
 - 🧢 - Real-time expense tracking 
